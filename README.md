@@ -7,5 +7,5 @@
 
 #### Demostração
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/trybe-projetos/blob/main/pixel-art/pixel-art.gif" alt="Pixel Art Gif - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/pixel-art/blob/main/pixel-art.gif" alt="Pixel Art Gif - Demostração"/>
 </p>
