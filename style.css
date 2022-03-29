@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#title {
+  margin: 20px;
+}
+
+.pixel-board {
+  margin: 0;
+  padding: 0;
+}
+
+/* A posição do botão limpar no centro foi proveniente da informação encontrada no StackOverflow
+source: https://stackoverflow.com/questions/16569577/how-to-center-things-displayblock-inline-block */
+
+#clear-board {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#board-size {
+  text-align: left;
+}
+
+#controls {
+  margin: 20px;
+}
+
+#pixel-board{
+  line-height: 0;
+}
