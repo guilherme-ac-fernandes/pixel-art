@@ -1,4 +1,4 @@
-## Projeto Pixel Art
+## Game - Pixel Art
 
 #### Consiste em uma página web que contém uma paleta de cores funcionais que podem ser utilizadas para criar desenhos em pixel.
 > Esta aplicação foi desenvolvida utilizando JavaScript, HTML5 e CSS3.
