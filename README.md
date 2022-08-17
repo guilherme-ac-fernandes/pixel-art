@@ -1,11 +1,13 @@
-## Projeto Pixel Art
+# Projeto Pixel Art 🎨
 
-#### Consiste em uma página web que contém uma paleta de cores funcionais que podem ser utilizadas para criar desenhos em pixel.
-> Esta aplicação foi desenvolvida utilizando JavaScript, HTML5 e CSS3.
+Consiste em uma página web que contém uma paleta de cores funcionais que podem ser utilizadas para criar desenhos em pixel.
 
-:point_right: **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/pixel-art/)_
+* Construída utilizado HTML5, CSS3 e JavaScript.
 
-#### Demostração
+### Demonstração
+
+👨🏻‍💻 **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/pixel-art/)_
+
 <p align="center">
   <img src="https://github.com/guilherme-ac-fernandes/pixel-art/blob/main/pixel-art.gif" alt="Pixel Art Gif - Demostração"/>
 </p>
